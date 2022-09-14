@@ -1,0 +1,15 @@
+/home/jowend/personalProjects/platzi/cursoFundamentosNet/consoleapp/bin/Debug/net6.0/consoleapp
+/home/jowend/personalProjects/platzi/cursoFundamentosNet/consoleapp/bin/Debug/net6.0/consoleapp.deps.json
+/home/jowend/personalProjects/platzi/cursoFundamentosNet/consoleapp/bin/Debug/net6.0/consoleapp.runtimeconfig.json
+/home/jowend/personalProjects/platzi/cursoFundamentosNet/consoleapp/bin/Debug/net6.0/consoleapp.dll
+/home/jowend/personalProjects/platzi/cursoFundamentosNet/consoleapp/bin/Debug/net6.0/consoleapp.pdb
+/home/jowend/personalProjects/platzi/cursoFundamentosNet/consoleapp/obj/Debug/net6.0/consoleapp.csproj.AssemblyReference.cache
+/home/jowend/personalProjects/platzi/cursoFundamentosNet/consoleapp/obj/Debug/net6.0/consoleapp.GeneratedMSBuildEditorConfig.editorconfig
+/home/jowend/personalProjects/platzi/cursoFundamentosNet/consoleapp/obj/Debug/net6.0/consoleapp.AssemblyInfoInputs.cache
+/home/jowend/personalProjects/platzi/cursoFundamentosNet/consoleapp/obj/Debug/net6.0/consoleapp.AssemblyInfo.cs
+/home/jowend/personalProjects/platzi/cursoFundamentosNet/consoleapp/obj/Debug/net6.0/consoleapp.csproj.CoreCompileInputs.cache
+/home/jowend/personalProjects/platzi/cursoFundamentosNet/consoleapp/obj/Debug/net6.0/consoleapp.dll
+/home/jowend/personalProjects/platzi/cursoFundamentosNet/consoleapp/obj/Debug/net6.0/refint/consoleapp.dll
+/home/jowend/personalProjects/platzi/cursoFundamentosNet/consoleapp/obj/Debug/net6.0/consoleapp.pdb
+/home/jowend/personalProjects/platzi/cursoFundamentosNet/consoleapp/obj/Debug/net6.0/consoleapp.genruntimeconfig.cache
+/home/jowend/personalProjects/platzi/cursoFundamentosNet/consoleapp/obj/Debug/net6.0/ref/consoleapp.dll
